@@ -1,0 +1,14 @@
+:root {
+    --clr-p-red: hsl(0, 78%, 62%);
+    --clr-p-cyan: hsl(180, 62%, 55%);
+    --clr-p-orange: hsl(34, 97%, 64%);
+    --clr-p-blue: hsl(212, 86%, 64%);
+    --clr-n-very-dark-blue: hsl(234, 12%, 34%);
+    --clr-n-grayish-blue: hsl(229, 6%, 66%);
+    --clr-n-very-light-gray: hsl(0, 0%, 98%);
+    --fs-extra-light: 200;
+    --fs-regular: 400;
+    --fs-semi-bold: 600;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
